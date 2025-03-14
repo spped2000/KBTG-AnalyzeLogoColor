@@ -28,10 +28,10 @@ conda install pillow numpy
 
 ## Quick Start
 
-1. Download the `KBTG_ColorAnalyzer.py` file
+1. Download the `KBTG_AnalyzeColor.py` file
 2. Run it using Python:
 ```
-python KBTG_ColorAnalyzer.py
+python KBTG_AnalyzeColor.py
 ```
 
 ## Step-by-Step Usage Guide
