@@ -1,7 +1,7 @@
 # KBTG-AnalyzeLogoColor
 
 
-A Python application for analyzing color grids and finding the closest match to a reference color.
+![KBTG Color Analysis Result](kbtg_result.png)
 
 ## Overview
 
